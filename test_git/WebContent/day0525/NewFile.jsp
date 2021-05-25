@@ -28,6 +28,7 @@
 <div>
 <a href="http://sist.co.kr">링크포항항</a>
 <a href="">새로운기능추가</a>
+<a href="">새로운기능추가2</a>
 </div>
 </body>
 </html>
